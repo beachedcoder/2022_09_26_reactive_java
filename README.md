@@ -23,3 +23,4 @@
   
   ## Links to Activity Guides
    - Will add links during each chapter as appropriate
+   - [Please share about you](https://docs.google.com/document/d/1NlyPVHcFYix0RJJlw0erHOUJW8VQpWtW6tmcKRAog9I/edit?usp=sharing)
