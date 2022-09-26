@@ -3,6 +3,7 @@
   - [slide deck for this week](https://courses.roitraining.com/474tli0921.zip)
   - [Virtual machine for class](https://rvc.roitraining.com/)
     - Suggest incognito or inprivate session to avoid work account conflicts
+    - Log in with your work email address
   - [Reactive Manifesto](https://www.reactivemanifesto.org/)
   - [Reactive Streams @ Github](https://github.com/reactive-streams/reactive-streams-jvm)
   - [Reactor Github docs](https://github.com/reactor)
