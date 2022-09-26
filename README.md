@@ -22,5 +22,4 @@
   - [Demos from class](https://github.com/)
   
   ## Links to Activity Guides
-   - Will add links during event each chapter
-   
+   - Will add links during each chapter as appropriate
