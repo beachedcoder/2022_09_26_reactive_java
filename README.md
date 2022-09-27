@@ -20,7 +20,7 @@
   
   ## Code Shares on GitHub
   
-  - [Demos from class](https://github.com/beachedcoder/2022_09_26_reactive_demo.git)
+  - [service demo from class](https://github.com/beachedcoder/2022_09_26_reactive_demo.git)
   
   ## Links to Activity Guides
    - Will add links during each chapter as appropriate
