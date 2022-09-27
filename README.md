@@ -24,4 +24,7 @@
   
   ## Links to Activity Guides
    - Will add links during each chapter as appropriate
-   - 
+  - [Activity 4.1](https://docs.google.com/document/d/15CrmqLYz7B38kLY_DR-M3S2KHm1q_mizsQHGjg62lYU/edit?usp=sharing)
+  - [Activity 4.2](https://docs.google.com/document/d/12QCRmcaoO9iL56vkWUKGIBJOdIqZJUzk2FLfEr4uZ0Q/edit?usp=sharing)
+  - [Activity 4.3](https://docs.google.com/document/d/1-CmXoELpukVfuNI7GulQHAh0wWXSCWYrYk9ytCMZLoA/edit?usp=sharing)
+  - [Activity 4.4](https://docs.google.com/document/d/1IA9rdPcAqy7_tpV5WJqZIubLaDn-jZERjOKDu2robU0/edit?usp=sharing)
